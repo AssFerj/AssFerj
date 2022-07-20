@@ -7,8 +7,6 @@
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. -->
 
-----
-
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -20,8 +18,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 </code><br>
 
----
-
 ## ⭐ Estatísticas do meu GitHub
 
 <a href="https://github.com/Gurupreet">
@@ -32,11 +28,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assferj&show_icons=true&theme=dracula&line_height=27" alt="**Assis Júnior** github estatus"/>
 </a><br>
 
----
-
 ## 🌎 Contatos & Rede Sociais!
-
-<br>
 
 <a href="https://www.linkedin.com/in/assis-junior-7b092a107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
