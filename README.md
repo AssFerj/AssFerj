@@ -21,11 +21,11 @@
 ## ⭐ Estatísticas do meu GitHub
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assferj&theme=react-dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assferj&theme=github_dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=assferj&show_icons=true&theme=react-dark&line_height=27" alt="**Assis Júnior** github estatus"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=assferj&show_icons=true&theme=github_dark&line_height=27" alt="**Assis Júnior** github estatus"/>
 </a><br>
 
 ## ⚡ Atividade Recente no GitHub
