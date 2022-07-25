@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 🤔 Olá, meu nome é <strong>Assis Júnior!</strong>
+## 🤔 Hi, my name is <strong>Assis Júnior!</strong>
 
-> Tenho 34 anos, trabalho a mais de 10 anos no setor comercial como Auxiliar de Escritório, estou em processo de transição de carreira para área de Tecnologia, atualmente sou Desenvolvedor Web FullStack em formação pela <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, aluno da 9ª Edição do Programa Starter.<br>
+> I am 34 years old, I work for more than 10 years in the commercial sector as an Office Assistant, I am in the process of transitioning from career to Technology area, I am currently a FullStack Web Developer in training by <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, student of the 9th Edition of the Starter Program.<br>
 <!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. -->
