@@ -28,11 +28,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assferj&show_icons=true&theme=github_dark&line_height=27" alt="**Assis Júnior** github estatus"/>
 </a><br>
 
-## ⚡ Atividade Recente no GitHub
-
-<a href="https://github.com/AssFerj" target="_blank"><img alt="AssFerj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=assferj&custom_title=AssFerj&theme=react-dark" /></a>
-<br/>
-
 
 ## 🌎 Contatos & Rede Sociais!
 
