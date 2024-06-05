@@ -2,7 +2,7 @@
 
 ## 🤔 Hi, i am <strong>Assis Júnior!</strong>
 
-> I am 37 years old, I work for more than 10 years in the commercial sector as an Office Assistant, I am in the process of transitioning from career to Technology area, I am currently a FullStack Web Developer in training by <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, student of the 9th Edition of the Starter Program.<br>
+> I am 37 years old, I work for more than 10 years in the commercial sector as an Office Assistant, I am a FullStack Web Developer Jr graduated by <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, student of the 14th Edition of the Starter Program.<br>
 <!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. -->
