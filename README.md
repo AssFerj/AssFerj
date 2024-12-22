@@ -9,7 +9,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,php,laravel,mysql,docker,wordpres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,php,laravel,mysql,docker,wordpress,git)](https://skillicons.dev)
 
 ## ⭐ Estatísticas do meu GitHub
 
