@@ -19,7 +19,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docekr/docker.png" alt="Docker"/></code>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,node,react,nextjs,php,laravel,mysql,docker,wordpres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,php,laravel,mysql,docker,wordpres)](https://skillicons.dev)
 </code><br>
 
 ## ⭐ Estatísticas do meu GitHub
