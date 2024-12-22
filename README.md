@@ -2,7 +2,7 @@
 
 ## 🤔 Hi, i am <strong>Assis Júnior!</strong>
 
-> I am 38 years old, I work for more than 10 years in the commercial sector as an Office Assistant, I am a FullStack Web Developer Jr currently working as a fullstack developer at <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, graduated by <a href="https://www.stoix.dev/" target="_blank">Stoix.dev</a>, student of the 14th Edition of the Starter Program.<br>
+> I am 38 years old, I work for more than 10 years in the commercial sector as an Office Assistant, I am a FullStack Web Developer Jr currently working as a fullstack developer at <a href="https://www.stoix.dev/" target="_blank">Stoix.dev</a>, graduated by <a href="https://www.growdev.com.br" target="_blank">Growdev</a>, student of the 14th Edition of the Starter Program.<br>
 <!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. -->
